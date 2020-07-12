@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm currently working on my 100DaysOfCode
+I'm currently learning FullStack WebDevelopment
+
+
 <!--
 **RajVadeghar/RajVadeghar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
