@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working on my 100DaysOfCode
+I'm currently working on my 100DaysOfCode \n
 I'm currently learning FullStack WebDevelopment
 
 
