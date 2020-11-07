@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm currently working on my 100DaysOfCode <br />
-I'm currently learning FullStack WebDevelopment
+I'm currently learning Data Structures and Algorithms
 
 
 <!--
