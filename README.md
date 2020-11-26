@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working on my 100DaysOfCode <br />
+I'm currently working on my 100DaysOfCode Challenge<br />
 I'm currently learning Data Structures and Algorithms
 
 
