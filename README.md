@@ -1,8 +1,17 @@
 ### Hi there 👋
 
-I'm currently working on my 100DaysOfCode Challenge<br />
-I'm currently learning Data Structures and Algorithms
+I'm currently working on my College Website<br />
+It helps in making online classes more adjustable for teachers and as well as students.<br />
 
+## Technologies Using:
+- Next Js/React Js
+- MongoDB(Mongoose)
+- Redux
+- TailwindCSS
+
+## Additionals:
+- ServerSideRendering(SSR)
+- Mobile Responsive
 
 <!--
 **RajVadeghar/RajVadeghar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
