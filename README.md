@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Here's my [Portfolio](https://coding-with-raj.vercel.app/)
+
 I'm currently working on my College Website<br />
 It helps in making online classes more adjustable for teachers and as well as students.<br />
 
@@ -18,8 +20,6 @@ It helps in making online classes more adjustable for teachers and as well as st
 - Firebase Firestore, Storage from Google
 - Material UI from google
 - BEM
-
-Here's my [Portfolio](https://coding-with-raj.vercel.app/)
 
 <!--
 **RajVadeghar/RajVadeghar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
